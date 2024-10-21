@@ -1,9 +1,3 @@
-// for(var i = 0; i < orderedFlavors.length; i++){
-
-// }
-// const flavorInput = {
-
-// }
 var flavors = prompt(
   "Enter in your froyo flavors. Please add a comma after each flavor."
 );
@@ -20,5 +14,3 @@ for (const flavor of flavorArray) {
   }
 }
 console.log(count);
-
-//orderedFlavors.flav =
